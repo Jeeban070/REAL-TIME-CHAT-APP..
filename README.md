@@ -45,3 +45,9 @@ Mentor: Neela Santosh
 Organization: CodTech IT Solution
 📌 Conclusion
 This project provided me with valuable experience in real-time web development and helped strengthen my frontend and socket programming skills. The guidance from my mentor was instrumental in completing this project successfully.-APP..
+
+
+OUTPUT
+<img width="1264" height="692" alt="Image" src="https://github.com/user-attachments/assets/135fa34e-29fe-47d1-bbc4-6f43be629716" />
+<img width="1267" height="698" alt="Image" src="https://github.com/user-attachments/assets/1df159e1-76e0-40f3-aa6b-e639bb294837" />
+
