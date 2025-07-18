@@ -3,8 +3,8 @@ This Real-Time Chat App is a web-based messaging platform developed as part of m
 
 📄 Internship Details
 🏢 Company: CodTech IT Solutions
-👨‍💻 Name: Yuvraj Sahoo
-🆔 Intern ID: CT04DG1472
+👨‍💻 Name: Mrutyunjaya Das
+🆔 Intern ID: CT04DG1377
 💻 Domain: Frontend Web Development
 ⏳ Duration: 4 Weeks
 👨‍🏫 Mentor: Neela Santosh
